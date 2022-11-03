@@ -1,0 +1,30 @@
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\bin\Debug\net6.0\Final Project.exe
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\bin\Debug\net6.0\Final Project.deps.json
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\bin\Debug\net6.0\Final Project.dll
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\bin\Debug\net6.0\Final Project.pdb
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.dll
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.pdb
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+C:\Users\baxtegab\Downloads\GabbyBaxter\Final Project\Final Project\Final Project\obj\Debug\net6.0\ref\Final Project.dll
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\bin\Debug\net6.0\Final Project.exe
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\bin\Debug\net6.0\Final Project.deps.json
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\bin\Debug\net6.0\Final Project.dll
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\bin\Debug\net6.0\Final Project.pdb
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.dll
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.pdb
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+C:\Users\Baxte\OneDrive\Documents\GitHub\Final-Project\Final Project\obj\Debug\net6.0\ref\Final Project.dll
